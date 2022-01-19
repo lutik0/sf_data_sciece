@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/lutik0/sf_data_sciece/proect_0/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/lutik0/sf_data_sciece/proect_0//tree/main/README.md#Описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/lutik0/sf_data_sciece/tree/main/proect_0/README.md#Какой-кейс-решаем)
 
