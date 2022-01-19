@@ -16,7 +16,7 @@
 ## Описание проекта
 Угадать загаданное компьютером число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/proect_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/tree/main/project_0)
 
 
 ### Какой кейс решаем?
@@ -36,19 +36,19 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/proect_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/tree/main/project_0)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/proect_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/tree/main/project_0)
 
 
 ### Результаты:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/proect_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/lutik0/sf_data_sciece/tree/main/project_0)
 
 
 ### Выводы:
